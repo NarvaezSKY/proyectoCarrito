@@ -14,7 +14,7 @@ icono.addEventListener('mouseleave', ()=>{
 })
 
 botonCompra.addEventListener('click',()=>{
-    carrito.innerHTML=`<div><img src="${producto1.children[0]}"> </div>`
+    alert('que')
 })
 
 let producto1=producto[0]
